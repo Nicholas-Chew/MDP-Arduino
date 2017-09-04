@@ -1,0 +1,7 @@
+2248.86 counts per revolution 
+Wheel Radius : 6cm
+Wheel circumference: 37.7cm
+Robot diameter: 19.6cm (Anyhow)
+Robot circumference: 61.575cm
+
+per turn 3673.138 tick
