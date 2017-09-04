@@ -18,9 +18,10 @@ All available in /arduino_library.zip
 ### Machine Code
 Command to be executed is using one char machine code and another char for parameter (optional) since it saves memory on Arduino.
   
-List of function codes currently available:  
+List of function codes currently available:
+
 | Instruction | Effect                      |
-| :---------- | :---------------------------|
+| :---------- | :-------------------------- |
 | e | Foward Explore - Keep going foward & send sensor data until meeting a wall |
 | fx | Go Forward for x grid |
 | bx | Go Backward for x grid |
@@ -59,4 +60,5 @@ Calibration Criteria:
 ****
 
 ***Disclaimer:*** This repo is no longer maintained and was submitted as part of the coursework assignment for MDP
+
 ***Note:*** This project is just for reference purposes. Please do not copy blindly. There are other factors that will affect the outcome of your robot.
